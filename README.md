@@ -1,7 +1,7 @@
 
-<p align="center">
+ <!-- <p align="center">
   <img src="number6.gif" alt="Demonstração" width="100%" height="200"/>
-</p>
+</p> -->
 
 <h1 align="center">I'm Lucas, make yourself at home 🙏</h1>
 
